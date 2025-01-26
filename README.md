@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Usage/Examples
 
 ```bash
-python analyze_report.py sample_report.pdf
+python runner.py sample_report.pdf
 ```
 OR Explicitely change in line 192 of runner.py
 
